@@ -64,7 +64,7 @@ $ yarn dev
 
 <p>After the merge of your pull request is done, you can delete your branch.</p>
 
-## License
+## ✍️ License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
 
